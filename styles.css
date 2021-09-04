@@ -1,3 +1,22 @@
 body {
+	border: 3px solid yellow;
+	margin: 0;
+	background: #222;
 	font-family: 'Work Sans', sans-serif;
+	font-weight: 300;
+}
+
+.container {
+	border: 3px solid red;
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	background: #55d6aa;
+}
+
+.logo {
+	height: 8%;
+	width: 8%;
 }
