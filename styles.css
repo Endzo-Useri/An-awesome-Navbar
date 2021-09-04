@@ -26,6 +26,7 @@ header::after {
 	float: left;
 	height: 8%;
 	width: 8%;
+	padding: 10px 0;
 }
 
 nav {
@@ -41,4 +42,5 @@ nav ul {
 nav li {
 	display: inline-block;
 	margin-left: 70px;
+	padding-top: 25px;
 }
